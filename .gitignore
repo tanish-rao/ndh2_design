@@ -96,3 +96,21 @@ Thumbs.db
 *.bibtex
 *.densities
 *.densitiesinfo
+# Exclude heavy outputs from acquire_homologs (screening/results)
+acquire_homologs/outputs*/
+acquire_homologs/**/outputs*/
+acquire_homologs/**/hmmer_screen/
+acquire_homologs/**/hmmer*/
+acquire_homologs/**/candidates*.fa*
+
+# Exclude heavy work dirs and artifacts in top-level pipeline_results
+pipeline_results/*_work/
+pipeline_results/**/tier6_docking_work/
+pipeline_results/**/tier7_dft_work/
+pipeline_results/**/homolog_docking_work/
+pipeline_results/**/homolog_structures/
+pipeline_results/**/*.pdbqt
+pipeline_results/**/*.gbw
+pipeline_results/**/*.inp
+pipeline_results/**/*.bibtex
+pipeline_results/**/*.densities*
