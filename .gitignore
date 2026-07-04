@@ -79,3 +79,16 @@ Thumbs.db
 *.tsv
 *.xlsx
 *.json
+
+# Docking files
+*.pdbqt
+*.gpf
+*.glg
+*.dlg
+
+# DFT files
+*.gbw
+*.inp
+*.bibtex
+*.densities
+*.densitiesinfo
