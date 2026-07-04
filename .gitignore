@@ -21,6 +21,10 @@ logs/
 *.fasta
 *.fa
 *.txt
+
+# Allow tracking FASTA only for pipeline result summaries
+!filter_outputs/pipeline_results/*.fasta
+!filter_outputs/pipeline_results/*.fa
 generated_*/
 filtered_*/
 
