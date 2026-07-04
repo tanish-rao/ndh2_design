@@ -1,0 +1,12 @@
+##gff-version 3
+# parent_ndh2_lactobacillus Length: 636
+# parent_ndh2_lactobacillus Number of predicted TMRs: 4
+parent_ndh2_lactobacillus	inside	1	428				
+parent_ndh2_lactobacillus	TMhelix	429	450				
+parent_ndh2_lactobacillus	outside	451	536				
+parent_ndh2_lactobacillus	TMhelix	537	561				
+parent_ndh2_lactobacillus	inside	562	563				
+parent_ndh2_lactobacillus	TMhelix	564	579				
+parent_ndh2_lactobacillus	outside	580	580				
+parent_ndh2_lactobacillus	TMhelix	581	597				
+parent_ndh2_lactobacillus	inside	598	636				

@@ -1,0 +1,1068 @@
+##gff-version 3
+ndh2_10k_generated_16	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_16	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_67	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_67	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_71	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_71	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_73	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_73	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_103	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_103	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_114	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_114	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_160	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_160	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_231	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_231	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_237	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_237	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_306	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_306	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_396	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_396	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_397	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_397	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_442	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_442	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_442	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_447	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_447	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_447	SimpleTM	TMhelix	328	342	.	.	.	.
+ndh2_10k_generated_447	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_625	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_625	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_687	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_687	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_692	SimpleTM	TMhelix	65	79	.	.	.	.
+ndh2_10k_generated_692	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_711	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_711	SimpleTM	TMhelix	212	231	.	.	.	.
+ndh2_10k_generated_711	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_743	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_743	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_743	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_753	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_753	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_814	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_814	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_865	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_865	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_871	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_871	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_898	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_898	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_906	SimpleTM	TMhelix	159	173	.	.	.	.
+ndh2_10k_generated_906	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_950	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_950	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_1000	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1000	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_1000	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_1000	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_1012	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1012	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1014	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1014	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1023	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1023	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_1023	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_1023	SimpleTM	TMhelix	352	366	.	.	.	.
+ndh2_10k_generated_1023	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_1046	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1046	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_1046	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_1046	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_1095	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1095	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1109	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1109	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1122	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1122	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1172	SimpleTM	TMhelix	161	185	.	.	.	.
+//
+ndh2_10k_generated_1225	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1225	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1248	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1248	SimpleTM	TMhelix	308	322	.	.	.	.
+ndh2_10k_generated_1248	SimpleTM	TMhelix	363	377	.	.	.	.
+ndh2_10k_generated_1248	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_1261	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_1275	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1275	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1308	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1308	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1332	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_1332	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_1332	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1337	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1337	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_1377	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_1377	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_1377	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_1377	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1425	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1425	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_1449	SimpleTM	TMhelix	130	147	.	.	.	.
+ndh2_10k_generated_1449	SimpleTM	TMhelix	154	168	.	.	.	.
+ndh2_10k_generated_1449	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_1449	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_1449	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1451	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1451	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_1451	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_1451	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_1468	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_1468	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_1468	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1487	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_1487	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_1487	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1509	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1509	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_1522	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_1522	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1661	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1661	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1754	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1754	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1784	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1784	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_1784	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_1784	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_1844	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_1844	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_1844	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_1845	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1845	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_1848	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1848	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1875	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1875	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1932	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1932	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_1947	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1947	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1986	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1986	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_1989	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_1989	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_1992	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_2018	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2018	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2023	SimpleTM	TMhelix	99	113	.	.	.	.
+//
+ndh2_10k_generated_2049	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2049	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_2049	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_2049	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_2080	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2080	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2090	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2090	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2124	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_2124	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_2124	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2215	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2215	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_2263	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_2263	SimpleTM	TMhelix	378	392	.	.	.	.
+//
+ndh2_10k_generated_2299	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2299	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2322	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2322	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2330	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2330	SimpleTM	TMhelix	180	194	.	.	.	.
+ndh2_10k_generated_2330	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_2330	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_2334	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2334	SimpleTM	TMhelix	149	168	.	.	.	.
+ndh2_10k_generated_2334	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_2334	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_2334	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2356	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_2356	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_2356	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2369	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_2369	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_2369	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_2369	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2405	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_2405	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_2405	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_2405	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2458	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2458	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2464	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2464	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_2479	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_2479	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2488	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_2488	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_2488	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2557	SimpleTM	TMhelix	324	338	.	.	.	.
+//
+ndh2_10k_generated_2606	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2606	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2626	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2626	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2631	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2631	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2640	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2640	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2707	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2707	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_2707	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_2707	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_2712	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_2712	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_2712	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2726	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2726	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2768	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2768	SimpleTM	TMhelix	149	168	.	.	.	.
+ndh2_10k_generated_2768	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_2768	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_2768	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2791	SimpleTM	TMhelix	325	349	.	.	.	.
+//
+ndh2_10k_generated_2845	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2845	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_2875	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2875	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2887	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2887	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_2887	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_2887	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_2892	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2892	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2918	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_2918	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2925	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2925	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_2938	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_2938	SimpleTM	TMhelix	23	37	.	.	.	.
+ndh2_10k_generated_2938	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_2938	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_2938	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_2942	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_2942	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3007	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_3007	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_3007	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3045	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3045	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3055	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3055	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_3114	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3114	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3116	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3116	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3118	SimpleTM	TMhelix	161	185	.	.	.	.
+//
+ndh2_10k_generated_3180	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3180	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_3180	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_3180	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_3232	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3232	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3241	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3241	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3385	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3385	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3386	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3386	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3390	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_3390	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_3390	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_3402	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3402	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3435	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3435	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3582	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_3582	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_3590	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3590	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3608	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3608	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3658	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_3658	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3697	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_3697	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_3707	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3707	SimpleTM	TMhelix	149	168	.	.	.	.
+ndh2_10k_generated_3707	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_3707	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_3707	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_3717	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_3717	SimpleTM	TMhelix	355	372	.	.	.	.
+ndh2_10k_generated_3717	SimpleTM	TMhelix	379	393	.	.	.	.
+//
+ndh2_10k_generated_3741	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3741	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3747	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_3747	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_3747	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_3905	SimpleTM	TMhelix	220	234	.	.	.	.
+ndh2_10k_generated_3905	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3941	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3941	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_3971	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_3971	SimpleTM	TMhelix	154	168	.	.	.	.
+ndh2_10k_generated_3971	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_3971	SimpleTM	TMhelix	261	275	.	.	.	.
+ndh2_10k_generated_3971	SimpleTM	TMhelix	378	392	.	.	.	.
+//
+ndh2_10k_generated_3986	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_3986	SimpleTM	TMhelix	306	320	.	.	.	.
+ndh2_10k_generated_3986	SimpleTM	TMhelix	328	342	.	.	.	.
+ndh2_10k_generated_3986	SimpleTM	TMhelix	380	394	.	.	.	.
+//
+ndh2_10k_generated_4036	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4036	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4040	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4040	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_4040	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_4040	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_4059	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4059	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4125	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4125	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4137	SimpleTM	TMhelix	157	171	.	.	.	.
+ndh2_10k_generated_4137	SimpleTM	TMhelix	177	191	.	.	.	.
+ndh2_10k_generated_4137	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_4137	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4139	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4139	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_4139	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4147	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4147	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_4152	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4152	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4172	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4172	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_4172	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4193	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4193	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4218	SimpleTM	TMhelix	352	366	.	.	.	.
+ndh2_10k_generated_4218	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_4234	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4234	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_4234	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4244	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4244	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_4244	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4403	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4403	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4416	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4416	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_4416	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_4467	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4467	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_4468	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4468	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4494	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4494	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4629	SimpleTM	TMhelix	325	349	.	.	.	.
+//
+ndh2_10k_generated_4633	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4633	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_4633	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4668	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_4668	SimpleTM	TMhelix	23	37	.	.	.	.
+ndh2_10k_generated_4668	SimpleTM	TMhelix	44	58	.	.	.	.
+ndh2_10k_generated_4668	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4668	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_4731	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_4731	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_4731	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_4749	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4749	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_4782	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4782	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4787	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4787	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_4856	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4856	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_4856	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_4856	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_4914	SimpleTM	TMhelix	325	349	.	.	.	.
+//
+ndh2_10k_generated_4994	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_4994	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5014	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5014	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5124	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_5124	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5138	SimpleTM	TMhelix	161	175	.	.	.	.
+ndh2_10k_generated_5138	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5206	SimpleTM	TMhelix	380	394	.	.	.	.
+//
+ndh2_10k_generated_5218	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5218	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_5244	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5244	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5254	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5254	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5336	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5336	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_5345	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5345	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5406	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5406	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5409	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5409	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5411	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5411	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5425	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5425	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5482	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5482	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_5496	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5496	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5506	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_5506	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_5506	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_5506	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_5527	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_5527	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_5527	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_5534	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_5534	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_5534	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_5584	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5584	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5666	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_5666	SimpleTM	TMhelix	23	37	.	.	.	.
+ndh2_10k_generated_5666	SimpleTM	TMhelix	44	58	.	.	.	.
+ndh2_10k_generated_5666	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5666	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5701	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5701	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5729	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5729	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5743	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_5743	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_5743	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_5751	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5751	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_5767	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5767	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_5802	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5802	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5844	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5844	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5852	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_5886	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5886	SimpleTM	TMhelix	149	168	.	.	.	.
+ndh2_10k_generated_5886	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_5886	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_5886	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_5888	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5888	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5906	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_5906	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_5914	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_5914	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_5914	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6014	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_6014	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_6014	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6021	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_6021	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6059	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6059	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6149	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6149	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6159	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6159	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6235	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6235	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_6245	SimpleTM	TMhelix	325	349	.	.	.	.
+//
+ndh2_10k_generated_6266	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6266	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_6312	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_6312	SimpleTM	TMhelix	23	37	.	.	.	.
+ndh2_10k_generated_6312	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_6312	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_6312	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6351	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6351	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_6351	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_6351	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_6354	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_6365	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6365	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6370	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6370	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6379	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6379	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6429	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6429	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6477	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6477	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_6488	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6488	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_6519	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_6519	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_6519	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6540	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_6540	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_6540	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6581	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6581	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6598	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_6598	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_6598	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6600	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6600	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6636	SimpleTM	TMhelix	162	186	.	.	.	.
+ndh2_10k_generated_6636	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_6636	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6640	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6640	SimpleTM	TMhelix	149	168	.	.	.	.
+ndh2_10k_generated_6640	SimpleTM	TMhelix	175	189	.	.	.	.
+//
+ndh2_10k_generated_6647	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_6647	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_6647	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_6689	SimpleTM	TMhelix	161	185	.	.	.	.
+//
+ndh2_10k_generated_6748	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6748	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6769	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6769	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6800	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6800	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6802	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6802	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_6809	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6809	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6836	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_6867	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6867	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6877	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6877	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_6896	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_6896	SimpleTM	TMhelix	211	225	.	.	.	.
+ndh2_10k_generated_6896	SimpleTM	TMhelix	262	276	.	.	.	.
+ndh2_10k_generated_6896	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_7030	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7030	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7129	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7129	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7193	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7193	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7205	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7205	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7238	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7238	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7242	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7242	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7285	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7285	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7334	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7334	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7336	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7336	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7416	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_7416	SimpleTM	TMhelix	149	168	.	.	.	.
+ndh2_10k_generated_7416	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_7416	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_7416	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_7432	SimpleTM	TMhelix	357	371	.	.	.	.
+ndh2_10k_generated_7432	SimpleTM	TMhelix	377	391	.	.	.	.
+//
+ndh2_10k_generated_7462	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7462	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7469	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7469	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7472	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7472	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7506	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7506	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7510	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7510	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7515	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7515	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7544	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7544	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7641	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7641	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7647	SimpleTM	TMhelix	133	147	.	.	.	.
+ndh2_10k_generated_7647	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_7647	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_7647	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_7709	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7709	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_7709	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_7709	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_7753	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_7753	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_7753	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_7759	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7759	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_7759	SimpleTM	TMhelix	328	342	.	.	.	.
+ndh2_10k_generated_7759	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_7796	SimpleTM	TMhelix	96	110	.	.	.	.
+ndh2_10k_generated_7796	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_7817	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7817	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_7819	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7819	SimpleTM	TMhelix	212	231	.	.	.	.
+ndh2_10k_generated_7819	SimpleTM	TMhelix	268	282	.	.	.	.
+//
+ndh2_10k_generated_7959	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_7959	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8001	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8001	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8042	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8042	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_8042	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_8042	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_8082	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8082	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_8085	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8085	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8105	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8105	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8158	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8158	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8168	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8168	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_8208	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8208	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8281	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8281	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8303	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8303	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8333	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8333	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_8333	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_8333	SimpleTM	TMhelix	352	366	.	.	.	.
+ndh2_10k_generated_8333	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_8377	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8377	SimpleTM	TMhelix	211	225	.	.	.	.
+ndh2_10k_generated_8377	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_8377	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_8386	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8386	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_8408	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8408	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8432	SimpleTM	TMhelix	1	18	.	.	.	.
+ndh2_10k_generated_8432	SimpleTM	TMhelix	92	106	.	.	.	.
+ndh2_10k_generated_8432	SimpleTM	TMhelix	174	188	.	.	.	.
+ndh2_10k_generated_8432	SimpleTM	TMhelix	196	210	.	.	.	.
+ndh2_10k_generated_8432	SimpleTM	TMhelix	378	392	.	.	.	.
+//
+ndh2_10k_generated_8483	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8483	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8512	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_8512	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8540	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8540	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8564	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8564	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8579	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8579	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8605	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8605	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_8816	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_8816	SimpleTM	TMhelix	23	37	.	.	.	.
+ndh2_10k_generated_8816	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_8816	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_8816	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_8885	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8885	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_8887	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8887	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8935	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8935	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_8981	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_8992	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_8992	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9035	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_9035	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_9035	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_9067	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9067	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9069	SimpleTM	TMhelix	157	171	.	.	.	.
+ndh2_10k_generated_9069	SimpleTM	TMhelix	177	191	.	.	.	.
+ndh2_10k_generated_9069	SimpleTM	TMhelix	266	280	.	.	.	.
+ndh2_10k_generated_9069	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_9102	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9102	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9121	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9121	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9129	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9129	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9176	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_9176	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_9176	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_9177	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9177	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_9191	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9191	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9204	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9204	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9224	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9224	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9238	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9238	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9309	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9309	SimpleTM	TMhelix	371	385	.	.	.	.
+//
+ndh2_10k_generated_9343	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9343	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9382	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9382	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9386	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_9386	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9415	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9415	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_9415	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_9415	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_9421	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9421	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9485	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_9544	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9544	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9555	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9555	SimpleTM	TMhelix	180	194	.	.	.	.
+ndh2_10k_generated_9555	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_9555	SimpleTM	TMhelix	352	366	.	.	.	.
+ndh2_10k_generated_9555	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_9619	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_9619	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_9619	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_9643	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9643	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9661	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9661	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9667	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9667	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9677	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9677	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_9747	SimpleTM	TMhelix	325	349	.	.	.	.
+//
+ndh2_10k_generated_9759	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_9759	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9775	SimpleTM	TMhelix	161	185	.	.	.	.
+ndh2_10k_generated_9775	SimpleTM	TMhelix	257	271	.	.	.	.
+ndh2_10k_generated_9775	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_9823	SimpleTM	TMhelix	1	15	.	.	.	.
+ndh2_10k_generated_9823	SimpleTM	TMhelix	21	35	.	.	.	.
+ndh2_10k_generated_9823	SimpleTM	TMhelix	175	189	.	.	.	.
+ndh2_10k_generated_9823	SimpleTM	TMhelix	260	274	.	.	.	.
+ndh2_10k_generated_9823	SimpleTM	TMhelix	373	387	.	.	.	.
+//
+ndh2_10k_generated_9843	SimpleTM	TMhelix	96	110	.	.	.	.
+ndh2_10k_generated_9843	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+//
+ndh2_10k_generated_9866	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9866	SimpleTM	TMhelix	372	386	.	.	.	.
+//
+ndh2_10k_generated_9882	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9882	SimpleTM	TMhelix	212	226	.	.	.	.
+ndh2_10k_generated_9882	SimpleTM	TMhelix	265	279	.	.	.	.
+ndh2_10k_generated_9882	SimpleTM	TMhelix	383	397	.	.	.	.
+//
+ndh2_10k_generated_9909	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9909	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9927	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9927	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9945	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9945	SimpleTM	TMhelix	370	384	.	.	.	.
+//
+ndh2_10k_generated_9985	SimpleTM	TMhelix	95	109	.	.	.	.
+ndh2_10k_generated_9985	SimpleTM	TMhelix	371	385	.	.	.	.
+//

@@ -1,0 +1,10 @@
+source leaprc.protein.ff14SB
+source leaprc.gaff2
+loadamberparams fad_gaff.frcmod
+FAD = loadmol2 fad_gaff.mol2
+REC = loadpdb receptor.pdb
+complex = combine {REC FAD}
+set default PBradii mbondi2
+saveamberparm complex complex.prmtop complex.inpcrd
+savepdb complex complex_amber.pdb
+quit
