@@ -118,3 +118,33 @@ Consider managing via conda and a cluster scheduler (Slurm) for GPU/CPU partitio
 - Steinegger & Söding, MMseqs2.
 - Trott & Olson, AutoDock Vina.
 - Hall, Open Babel.
+
+## Pipeline (ASCII fallback)
+
+```
+[Acquire NDH2 homologs] -> [Combine/QC/Dedup] -> [Train Gen-SLM (catalytic)]
+    -> [Generate codons] -> [Pre-clean codons]
+    -> [Tier 1: Length] -> [Tier 2: BLAST]
+    -> [Append parent linker (AA 423+)] -> [Tier 3: ESMFold pLDDT]
+    -> [Compare pre/post pLDDT + Select top-N]
+    -> [Tier 5: Clustering (CD-HIT)]
+    -> [Tier 6: Dock NADH & DHNA]
+    -> [Step 6.1: Dock FAD (optional, scoring)]
+    -> [Tier 7: DFT (optional)]
+```
+
+### Step-by-step (quick reference)
+
+1. Acquire homologs (strict+HMM+balanced), combine, QC, deduplicate.
+2. Train Gen-SLM on catalytic domain-focused set; generate codon sequences.
+3. Pre-clean codons: trim trailing stops, remove internal stops, enforce AA length, deduplicate.
+4. Tier 1: Length filter; Tier 2: BLAST filter.
+5. Append parent linker domain (AA 423+), preserving catalytic domain focus.
+6. Tier 3: ESMFold pLDDT on linker-appended sequences; optionally compare pre/post.
+7. Select top-N by pLDDT (post-linker) for clustering.
+8. Tier 5: Cluster (CD-HIT) at chosen identity (default 70%; supports 50–60% with auto word-length).
+9. Generate structures for Tier 5 representatives (ESMFold PDBs) if not already present.
+10. Tier 6: Dock NADH and DHNA (filtering criteria; default ≤ -7.0 kcal/mol each).
+11. Step 6.1 (optional): Dock FAD to score the cofactor pocket (not gating by default).
+12. Tier 7 (optional): DFT refinement on top candidates.
+
